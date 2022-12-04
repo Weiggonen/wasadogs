@@ -1,0 +1,79 @@
+* {
+  color: white;
+}
+
+body {
+  background: rgb(79, 31, 41);
+  background: linear-gradient(
+    90deg,
+    rgba(79, 31, 41, 1) 0%,
+    rgba(99, 27, 43, 1) 48%,
+    rgba(139, 31, 55, 1) 100%
+  );
+  font-family: monospace;
+}
+
+table {
+  width: 80vw;
+  max-width: 600px;
+}
+
+.landing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+}
+
+.wd-landing {
+  max-width: 300px;
+  width: 50vw;
+  height: auto;
+}
+
+.roster {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+}
+
+.games {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+}
+
+.news {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+}
+.history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.history-container {
+  max-width: 600px;
+  line-height: 2;
+}
