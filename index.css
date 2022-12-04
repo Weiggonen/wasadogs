@@ -18,6 +18,10 @@ table {
   max-width: 600px;
 }
 
+p {
+  margin-left: 20px;
+}
+
 .landing {
   display: flex;
   flex-direction: column;
