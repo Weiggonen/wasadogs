@@ -1,5 +1,5 @@
 * {
-  color: white;
+  color: #cbb34f;
 }
 
 body {
@@ -11,6 +11,7 @@ body {
     rgba(139, 31, 55, 1) 100%
   );
   font-family: monospace;
+  color: #cbb34f;
 }
 
 table {
@@ -18,8 +19,8 @@ table {
   max-width: 600px;
 }
 
-p {
-  margin-left: 20px;
+.gold {
+  color: #cbb34f;
 }
 
 .landing {
@@ -80,5 +81,5 @@ p {
 .history-container {
   max-width: 600px;
   line-height: 2;
-  margin: 5px;
+  padding: 5px;
 }
