@@ -17,6 +17,7 @@ body {
 table {
   width: 80vw;
   max-width: 600px;
+  border-color: black !important;
 }
 
 .gold {
